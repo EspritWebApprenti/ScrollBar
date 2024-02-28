@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Overlow</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+    <div class="container">
+        <div class="scroll">
+            <div class="interieur"></div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <section>
+        <h1>Page1</h1>
+        <br><br><br>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facilis neque provident reiciendis exercitationem, id explicabo similique, nobis at molestiae alias repellat. Velit nihil placeat commodi, ratione laudantium dignissimos aspernatur doloremque eius est. Ipsam, dolores totam pariatur voluptas neque modi eos.</p>
+    </section>
+    <section>
+        <h1>Page2</h1>
+        <br><br><br>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facilis neque provident reiciendis exercitationem, id explicabo similique, nobis at molestiae alias repellat. Velit nihil placeat commodi, ratione laudantium dignissimos aspernatur doloremque eius est. Ipsam, dolores totam pariatur voluptas neque modi eos.</p>
+    </section>
+    <section>
+        <h1>Page3</h1>
+        <br><br><br>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facilis neque provident reiciendis exercitationem, id explicabo similique, nobis at molestiae alias repellat. Velit nihil placeat commodi, ratione laudantium dignissimos aspernatur doloremque eius est. Ipsam, dolores totam pariatur voluptas neque modi eos.</p>
+    </section>
+</body>
+</html>
